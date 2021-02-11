@@ -1,0 +1,37 @@
+enable  : true
+title   : THE TEAM.
+members  :
+  - image       : images/team/team-member-one.jpg
+    name        : Samuel Lo
+    designation : ---
+    medium      : https://www.medium.com/
+    linkedIn    : https://www.linkedin.com/
+    instagram   : https://www.instagram.com/
+
+  - image       : images/team/team-member-two.jpg
+    name        : Paul Andega
+    designation : ---
+    medium      : https://www.medium.com/
+    linkedIn    : https://www.linkedin.com/
+    instagram   : https://www.instagram.com/
+
+  - image       : images/team/team-member-three.jpg
+    name        : Vishnu Siripathi
+    designation : ---
+    medium      : https://www.medium.com/
+    linkedIn    : https://www.linkedin.com/
+    instagram   : https://www.instagram.com/
+
+  - image       : images/team/team-member-four.jpg
+    name        : Marissa Wang
+    designation : ---
+    medium      : https://www.medium.com/
+    linkedIn    : https://www.linkedin.com/
+    instagram   : https://www.instagram.com/
+
+  - image       : images/team/team-member-five.jpg
+    name        : Henry Ren
+    designation : Webmaster and ---
+    medium      : https://www.medium.com/
+    linkedIn    : https://www.linkedin.com/
+    instagram   : https://www.instagram.com/
